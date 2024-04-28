@@ -3,7 +3,7 @@ server:
 spring:
     datasource:
         password: Elizabethgeorge2000#
-        url: jdbc:mysql://localhost:3306/deptdatabase?useSSL=false
+        url: jdbc:mysql://localhost:3306/accountdb?useSSL=false
         username: root
     jpa:
         hibernate:
@@ -15,8 +15,8 @@ spring:
       
 # Test Details for Development Environment
 test:
-  details: Department service details for development environment [From GitHub]
-  engineer: John Doe01
+  details: Accounts service details for development environment [From GitHub]
+  engineer: Elizabeth George - Accounts Dev
   department: Development Testing [Dept service]
   engineerContact:
     email: testengineer01.dev@example.com
