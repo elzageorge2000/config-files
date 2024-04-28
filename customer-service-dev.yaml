@@ -14,7 +14,7 @@ spring:
                 
 # Test Details for Development Environment
 test:
-  details: Employee service details for development environment [From GitHub]
+  details: Customer service details for development environment [From GitHub]
   engineer: Elza George - DEV
   department: Development Testing
   engineerContact:
